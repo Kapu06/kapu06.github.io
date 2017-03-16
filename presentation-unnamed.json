@@ -1,0 +1,905 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 78,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>Collectif de l'Esprit Critique Niçois</font>",
+          "size": 58,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 24,
+          "y": 335,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "&nbsp;Regard sur les relations de l’industrie pharmaceutique <br>avec les étudiants des &nbsp;Facultés de Médecine.<br>",
+          "size": 41,
+          "selected": false,
+          "skewX": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/QSKDZXE.png",
+          "type": "Image",
+          "x": 259,
+          "y": 152,
+          "scale": {
+            "x": 0.6458598726114649,
+            "y": 0.6458598726114649,
+            "width": 507,
+            "height": 463.7273885350318
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 425,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>La thèse</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 460,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/7Z1dEM0.jpg",
+          "type": "Image",
+          "x": 333,
+          "y": 138,
+          "scale": {
+            "x": 0.5352323838080959,
+            "y": 0.5352323838080959,
+            "width": 356.99999999999994,
+            "height": 492.94902548725634
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 324,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>La Troupe Du Rire</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 740,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 340,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>Notre démarche</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 30,
+          "y": 168,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font>Eveiller l'esprit critique</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 30,
+          "y": 268,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font>Ne pas 'diaboliser' ni 'glorifier' les industries pharmeceutiques</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 30,
+          "y": 368,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font>Outils pédagogiques innovants et participatifs</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 1020,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 293,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>Ciné-débat-mouvant</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/madqA94.jpg",
+          "type": "Image",
+          "x": 180,
+          "y": 163,
+          "scale": {
+            "x": 0.32421875,
+            "y": 0.32421875,
+            "width": 664,
+            "height": 442.55859375
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 1.57,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 1020,
+      "y": 360
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 191,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>Le théâtre de la visite médicale</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/07IE7sB.jpg",
+          "type": "Image",
+          "x": 224,
+          "y": 192,
+          "scale": {
+            "x": 0.28125,
+            "y": 0.28125,
+            "width": 576,
+            "height": 383.90625
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 1.57,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 1028,
+      "y": 536
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 434,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>A vous!</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/KcnsTfW.jpg",
+          "type": "Image",
+          "x": 235,
+          "y": 181,
+          "scale": {
+            "x": 0.28854166666666664,
+            "y": 0.28854166666666664,
+            "width": 554,
+            "height": 407.1322916666666
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 1338,
+      "y": 537
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 318,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>Première question</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 8,
+          "y": 151,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<b>Pensez vous que les médecins peuvent être<br>influencés par des cadeaux de petite valeur, par<br>exemple se faire offrir un stylo ou des pains au<br>chocolat ?</b><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 117,
+          "y": 494,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "Gardez la main en l’air si vous pensez que c'est vrai.<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 117,
+          "y": 570,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "Baissez la main si vous pensez que c’est faux.<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 1587,
+      "y": 535
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 341.3333333333333,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>Deuxième question</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 14,
+          "y": 186,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 45,
+          "text": "<font><b>\"Un médecin sans conflit d’intérêt, est un médecin<br>sans intérêt.\"</b><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 117,
+          "y": 494,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "Gardez la main en l’air si vous pensez que c'est vrai.<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 117,
+          "y": 570,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "Baissez la main si vous pensez que c’est faux.<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 1587,
+      "y": 346
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 313,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>Troisième question</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 96,
+          "y": 146,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<b>Pensez-vous être susceptible d’être influençable par<br>une personne si elle vous offrait un stylo ou un pain<br>au chocolat ?</b><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 117,
+          "y": 494,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "Gardez la main en l’air si vous pensez que c'est vrais.<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 117,
+          "y": 570,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "Baissez la main si vous pensez que c’est faux.<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 1844,
+      "y": 343
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 171,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>L'illusion d'unique invulnérabilité</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/1WEBXV0.png",
+          "type": "Image",
+          "x": 110,
+          "y": 179,
+          "scale": {
+            "x": 0.6481481481481481,
+            "y": 0.6481481481481481,
+            "width": 805,
+            "height": 409.6296296296296
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 1846,
+      "y": 525
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 159,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>Apprentissage par la participation</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/KjOn7mV.jpg",
+          "type": "Image",
+          "x": 207,
+          "y": 181,
+          "scale": {
+            "x": 0.29833984375,
+            "y": 0.29833984375,
+            "width": 611,
+            "height": 407.23388671875
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -0.79,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 2119,
+      "y": 520
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 95,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<b>Conflict of Interest Policies at French Medical Schools: Starting from the Bottom</b><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/u2N81tn.png",
+          "type": "Image",
+          "x": 289,
+          "y": 118,
+          "scale": {
+            "x": 0.7268292682926829,
+            "y": 0.7268292682926829,
+            "width": 447,
+            "height": 533.4926829268293
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -0.79,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 2356,
+      "y": 356
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 286,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>Réflexions étudiantes</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 117,
+          "y": 152,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font>Enseignement et formation<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 147,
+          "y": 212,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<ul><li>DCI<br></li><li>formation à l'influence des industries</li><li>pas de support pédagogique rédigé par l'industrie</li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 117,
+          "y": 326,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font>Financement et administration</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 147,
+          "y": 386,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<ul><li>absence de financement par les industries sans accord préalable<br>par un organisme de surveillance</li><li>absence de représentant d'intérêt privés <br>au sein des conseils d'administration</li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 117,
+          "y": 518,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font>Transparence</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 147,
+          "y": 578,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<ul><li>Interdiction du ghostwriting<br></li><li>Absence de repas financé par<br>&nbsp;les industriels au sein des UFR</li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -0.79,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 2595,
+      "y": 181
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 367,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>We want you!</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/AFNr2LC.jpg",
+          "type": "Image",
+          "x": 308,
+          "y": 109,
+          "scale": {
+            "x": 0.32179386309992136,
+            "y": 0.32179386309992136,
+            "width": 409.00000000000006,
+            "height": 549.6239181746657
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 2831,
+      "y": 511
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 442,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>Merci!</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/AI0qNsu.jpg",
+          "type": "Image",
+          "x": 552,
+          "y": 260,
+          "scale": {
+            "x": 0.3892857142857143,
+            "y": 0.3892857142857143,
+            "width": 436,
+            "height": 277.5607142857143
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/jHZtLEB.png",
+          "type": "Image",
+          "x": 38,
+          "y": 265,
+          "scale": {
+            "x": 0.8513238289205702,
+            "y": 0.8513238289205702,
+            "width": 418,
+            "height": 271.5723014256619
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": true,
+      "surface": "bg-surf-grad-light",
+      "x": 2843,
+      "y": 710
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 442,
+        "y": 44,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 48,
+        "text": "<font>Merci!</font>",
+        "selected": false
+      },
+      {
+        "src": "http://i.imgur.com/AI0qNsu.jpg",
+        "type": "Image",
+        "x": 552,
+        "y": 260,
+        "scale": {
+          "x": 0.3892857142857143,
+          "y": 0.3892857142857143,
+          "width": 436,
+          "height": 277.5607142857143
+        },
+        "imageType": "JPG",
+        "selected": false
+      },
+      {
+        "src": "http://i.imgur.com/jHZtLEB.png",
+        "type": "Image",
+        "x": 38,
+        "y": 265,
+        "scale": {
+          "x": 0.8513238289205702,
+          "y": 0.8513238289205702,
+          "width": 418,
+          "height": 271.5723014256619
+        },
+        "imageType": "PNG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 15,
+    "selected": false,
+    "active": true,
+    "surface": "bg-surf-grad-light",
+    "x": 2843,
+    "y": 710
+  },
+  "fileName": "presentation-unnamed",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": null,
+  "overviewY": null
+}
