@@ -162,7 +162,7 @@
           },
           "type": "TextBox",
           "size": 36,
-          "text": "<font>Ne pas 'diaboliser' ni 'glorifier' les industries pharmeceutiques</font>",
+          "text": "<font>Ne pas 'diaboliser' ni 'glorifier' les industries pharmaceutiques</font>",
           "selected": false
         },
         {
@@ -185,8 +185,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 3,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 1020,
       "y": 180
     },
@@ -384,7 +384,7 @@
       "components": [
         {
           "TextBox": {},
-          "x": 341.3333333333333,
+          "x": 279,
           "y": 44,
           "scale": {
             "x": 1,
@@ -392,7 +392,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font>Deuxième question</font>",
+          "text": "<font>Deuxième proposition</font>",
           "selected": false
         },
         {
@@ -471,20 +471,20 @@
           },
           "type": "TextBox",
           "size": 36,
-          "text": "<b>Pensez-vous être susceptible d’être influençable par<br>une personne si elle vous offrait un stylo ou un pain<br>au chocolat ?</b><br>",
+          "text": "<b>Pensez-vous être influencé par une personne si elle <br>vous offrait un stylo ou un pain au chocolat ?</b><br>",
           "selected": false
         },
         {
           "TextBox": {},
-          "x": 117,
-          "y": 494,
+          "x": 116,
+          "y": 495,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
           "size": 36,
-          "text": "Gardez la main en l’air si vous pensez que c'est vrais.<br>",
+          "text": "Gardez la main en l’air si vous pensez que c'est vrai.<br>",
           "selected": false
         },
         {
@@ -833,7 +833,7 @@
       "rotateZ": 0,
       "index": 15,
       "selected": false,
-      "active": true,
+      "active": false,
       "surface": "bg-surf-grad-light",
       "x": 2843,
       "y": 710
@@ -843,7 +843,7 @@
     "components": [
       {
         "TextBox": {},
-        "x": 442,
+        "x": 340,
         "y": 44,
         "scale": {
           "x": 1,
@@ -851,35 +851,46 @@
         },
         "type": "TextBox",
         "size": 48,
-        "text": "<font>Merci!</font>",
+        "text": "<font>Notre démarche</font>",
         "selected": false
       },
       {
-        "src": "http://i.imgur.com/AI0qNsu.jpg",
-        "type": "Image",
-        "x": 552,
-        "y": 260,
+        "TextBox": {},
+        "x": 30,
+        "y": 168,
         "scale": {
-          "x": 0.3892857142857143,
-          "y": 0.3892857142857143,
-          "width": 436,
-          "height": 277.5607142857143
+          "x": 1,
+          "y": 1
         },
-        "imageType": "JPG",
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font>Eveiller l'esprit critique</font>",
         "selected": false
       },
       {
-        "src": "http://i.imgur.com/jHZtLEB.png",
-        "type": "Image",
-        "x": 38,
-        "y": 265,
+        "TextBox": {},
+        "x": 30,
+        "y": 268,
         "scale": {
-          "x": 0.8513238289205702,
-          "y": 0.8513238289205702,
-          "width": 418,
-          "height": 271.5723014256619
+          "x": 1,
+          "y": 1
         },
-        "imageType": "PNG",
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font>Ne pas 'diaboliser' ni 'glorifier' les industries pharmaceutiques</font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 30,
+        "y": 368,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font>Outils pédagogiques innovants et participatifs</font>",
         "selected": false
       }
     ],
@@ -888,18 +899,17 @@
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 15,
-    "selected": false,
+    "index": 3,
+    "selected": true,
     "active": true,
-    "surface": "bg-surf-grad-light",
-    "x": 2843,
-    "y": 710
+    "x": 1020,
+    "y": 180
   },
   "fileName": "presentation-unnamed",
   "deckVersion": "1.0",
   "customBackgrounds": {
     "bgs": []
   },
-  "overviewX": null,
-  "overviewY": null
+  "overviewX": 1511.5,
+  "overviewY": 445
 }
