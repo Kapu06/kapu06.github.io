@@ -391,8 +391,8 @@
       "index": 7,
       "selected": false,
       "active": false,
-      "x": 1587,
-      "y": 535
+      "x": 1580,
+      "y": 700
     },
     {
       "components": [
@@ -457,8 +457,8 @@
       "index": 8,
       "selected": false,
       "active": false,
-      "x": 1587,
-      "y": 346
+      "x": 1823,
+      "y": 519
     },
     {
       "components": [
@@ -523,8 +523,8 @@
       "index": 9,
       "selected": false,
       "active": false,
-      "x": 1848,
-      "y": 347
+      "x": 2066,
+      "y": 342
     },
     {
       "components": [
@@ -589,8 +589,8 @@
       "index": 10,
       "selected": false,
       "active": false,
-      "x": 2113,
-      "y": 356
+      "x": 2311,
+      "y": 166
     },
     {
       "components": [
@@ -628,10 +628,10 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 11,
-      "selected": false,
-      "active": false,
-      "x": 2118,
-      "y": 533
+      "selected": true,
+      "active": true,
+      "x": 2308,
+      "y": 718
     },
     {
       "components": [
@@ -671,8 +671,8 @@
       "index": 12,
       "selected": false,
       "active": false,
-      "x": 2388,
-      "y": 532
+      "x": 2538,
+      "y": 511
     },
     {
       "components": [
@@ -713,8 +713,8 @@
       "selected": false,
       "active": false,
       "surface": "bg-surf-grad-light",
-      "x": 2627,
-      "y": 355
+      "x": 2770,
+      "y": 335
     },
     {
       "components": [
@@ -754,8 +754,8 @@
       "index": 14,
       "selected": false,
       "active": false,
-      "x": 2871,
-      "y": 176
+      "x": 3014,
+      "y": 147
     },
     {
       "components": [
@@ -887,8 +887,8 @@
       "index": 15,
       "selected": false,
       "active": false,
-      "x": 3115,
-      "y": 4,
+      "x": 3248,
+      "y": -35,
       "surface": "bg-surf-grad-light"
     },
     {
@@ -936,15 +936,15 @@
       ],
       "z": 0,
       "impScale": 3,
-      "rotateX": 0,
+      "rotateX": 1.57,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 16,
       "selected": false,
-      "active": true,
+      "active": false,
       "surface": "bg-surf-grad-light",
-      "x": 3160,
-      "y": 659
+      "x": 3272,
+      "y": 1053
     },
     {
       "components": [
@@ -992,22 +992,22 @@
       ],
       "z": 0,
       "impScale": 3,
-      "rotateX": 0,
+      "rotateX": 1.57,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 17,
       "selected": false,
       "active": false,
       "surface": "bg-surf-grad-light",
-      "x": 3167,
-      "y": 841
+      "x": 3683,
+      "y": 1045
     }
   ],
   "activeSlide": {
     "components": [
       {
         "TextBox": {},
-        "x": 367,
+        "x": 171,
         "y": 44,
         "scale": {
           "x": 1,
@@ -1015,54 +1015,40 @@
         },
         "type": "TextBox",
         "size": 48,
-        "text": "<font>We want you!</font>",
+        "text": "<font>L'illusion d'unique invulnérabilité</font>",
         "selected": false
       },
       {
-        "src": "http://i.imgur.com/AFNr2LC.jpg",
+        "src": "http://i.imgur.com/1WEBXV0.png",
         "type": "Image",
-        "x": 308,
-        "y": 109,
+        "x": 110,
+        "y": 179,
         "scale": {
-          "x": 0.32179386309992136,
-          "y": 0.32179386309992136,
-          "width": 409.00000000000006,
-          "height": 549.6239181746657
+          "x": 0.6481481481481481,
+          "y": 0.6481481481481481,
+          "width": 805,
+          "height": 409.6296296296296
         },
-        "imageType": "JPG",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 270,
-        "y": 680,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 48,
-        "text": "<font>espritcritiquenicois.org</font>",
+        "imageType": "PNG",
         "selected": false
       }
     ],
     "z": 0,
     "impScale": 3,
-    "rotateX": 0,
+    "rotateX": 1.57,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 16,
-    "selected": false,
+    "index": 11,
+    "selected": true,
     "active": true,
-    "surface": "bg-surf-grad-light",
-    "x": 3160,
-    "y": 659
+    "x": 2308,
+    "y": 718
   },
   "fileName": "presentation-unnamed",
   "deckVersion": "1.0",
   "customBackgrounds": {
     "bgs": []
   },
-  "overviewX": 1673.5,
-  "overviewY": 422.5
+  "overviewX": 1931.5,
+  "overviewY": 509
 }
