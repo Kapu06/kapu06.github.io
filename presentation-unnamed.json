@@ -28,6 +28,20 @@
           "size": 41,
           "selected": false,
           "skewX": 0
+        },
+        {
+          "src": "http://i.imgur.com/O7MChJG.png",
+          "type": "Image",
+          "x": 421,
+          "y": 682,
+          "scale": {
+            "x": 0.182,
+            "y": 0.182,
+            "width": 182,
+            "height": 64.064
+          },
+          "imageType": "PNG",
+          "selected": false
         }
       ],
       "z": 0,
@@ -185,10 +199,10 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 3,
-      "selected": true,
-      "active": true,
-      "x": 1020,
-      "y": 180
+      "selected": false,
+      "active": false,
+      "x": 1046,
+      "y": 179
     },
     {
       "components": [
@@ -206,15 +220,15 @@
           "selected": false
         },
         {
-          "src": "http://i.imgur.com/madqA94.jpg",
+          "src": "http://i.imgur.com/WQ4Rqv8.jpg",
           "type": "Image",
-          "x": 180,
-          "y": 163,
+          "x": 185,
+          "y": 139,
           "scale": {
-            "x": 0.32421875,
-            "y": 0.32421875,
-            "width": 664,
-            "height": 442.55859375
+            "x": 0.5458333333333333,
+            "y": 0.5458333333333333,
+            "width": 654.9999999999999,
+            "height": 491.24999999999994
           },
           "imageType": "JPG",
           "selected": false
@@ -228,8 +242,8 @@
       "index": 4,
       "selected": false,
       "active": false,
-      "x": 1020,
-      "y": 360
+      "x": 1049,
+      "y": 358
     },
     {
       "components": [
@@ -269,8 +283,8 @@
       "index": 5,
       "selected": false,
       "active": false,
-      "x": 1028,
-      "y": 536
+      "x": 1048,
+      "y": 533
     },
     {
       "components": [
@@ -450,7 +464,7 @@
       "components": [
         {
           "TextBox": {},
-          "x": 313,
+          "x": 284,
           "y": 44,
           "scale": {
             "x": 1,
@@ -459,6 +473,72 @@
           "type": "TextBox",
           "size": 48,
           "text": "<font>Troisième question</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 63,
+          "y": 143,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>Pensez-vous figurer sur la base de données <br>transparence.gouv.fr?</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 117,
+          "y": 494,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font>Gardez la main en l'air si vous pensez y figurer.</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 117,
+          "y": 570,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font>Baissez la main si vous ne pensez pas y figurer.</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 1848,
+      "y": 347
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 303,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>Quatrième question</font>",
           "selected": false
         },
         {
@@ -506,11 +586,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 9,
+      "index": 10,
       "selected": false,
       "active": false,
-      "x": 1844,
-      "y": 343
+      "x": 2113,
+      "y": 356
     },
     {
       "components": [
@@ -547,11 +627,11 @@
       "rotateX": 1.57,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 10,
+      "index": 11,
       "selected": false,
       "active": false,
-      "x": 1846,
-      "y": 525
+      "x": 2118,
+      "y": 533
     },
     {
       "components": [
@@ -588,11 +668,53 @@
       "rotateX": 0,
       "rotateY": -0.79,
       "rotateZ": 0,
-      "index": 11,
+      "index": 12,
       "selected": false,
       "active": false,
-      "x": 2119,
-      "y": 520
+      "x": 2388,
+      "y": 532
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/GkeOlqw.jpg",
+          "type": "Image",
+          "x": 246,
+          "y": 118,
+          "scale": {
+            "x": 0.220746887966805,
+            "y": 0.220746887966805,
+            "width": 532,
+            "height": 532.4414937759336
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 340,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>L'ECN s'exporte!</font>",
+          "size": 48,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -0.7,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 2627,
+      "y": 355
     },
     {
       "components": [
@@ -629,11 +751,11 @@
       "rotateX": 0,
       "rotateY": -0.79,
       "rotateZ": 0,
-      "index": 12,
+      "index": 14,
       "selected": false,
       "active": false,
-      "x": 2356,
-      "y": 356
+      "x": 2871,
+      "y": 176
     },
     {
       "components": [
@@ -673,7 +795,7 @@
           },
           "type": "TextBox",
           "size": 24,
-          "text": "<ul><li>DCI<br></li><li>formation à l'influence des industries</li><li>pas de support pédagogique rédigé par l'industrie</li></ul>",
+          "text": "<ul><li>Dénomination Commune Internationale</li><li>formation à l'influence des industries</li><li>pas de support pédagogique rédigé par l'industrie</li></ul>",
           "selected": false
         },
         {
@@ -725,7 +847,35 @@
           },
           "type": "TextBox",
           "size": 24,
-          "text": "<ul><li>Interdiction du ghostwriting<br></li><li>Absence de repas financé par<br>&nbsp;les industriels au sein des UFR</li></ul>",
+          "text": "<ul><li>Interdiction des écrivains fantômes<br></li><li>Absence de repas financé par<br>&nbsp;les industriels au sein des UFR</li></ul>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/xy5L16t.png",
+          "type": "Image",
+          "x": 735,
+          "y": 144,
+          "scale": {
+            "x": 0.0973557692307692,
+            "y": 0.0973557692307692,
+            "width": 242.99999999999994,
+            "height": 151.87499999999997
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/CIxL4AE.jpg",
+          "type": "Image",
+          "x": 716,
+          "y": 565,
+          "scale": {
+            "x": 0.73,
+            "y": 0.73,
+            "width": 292,
+            "height": 96.36
+          },
+          "imageType": "JPG",
           "selected": false
         }
       ],
@@ -734,11 +884,12 @@
       "rotateX": 0,
       "rotateY": -0.79,
       "rotateZ": 0,
-      "index": 13,
+      "index": 15,
       "selected": false,
       "active": false,
-      "x": 2595,
-      "y": 181
+      "x": 3115,
+      "y": 4,
+      "surface": "bg-surf-grad-light"
     },
     {
       "components": [
@@ -768,6 +919,19 @@
           },
           "imageType": "JPG",
           "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 270,
+          "y": 680,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>espritcritiquenicois.org</font>",
+          "selected": false
         }
       ],
       "z": 0,
@@ -775,12 +939,12 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 14,
+      "index": 16,
       "selected": false,
-      "active": false,
+      "active": true,
       "surface": "bg-surf-grad-light",
-      "x": 2831,
-      "y": 511
+      "x": 3160,
+      "y": 659
     },
     {
       "components": [
@@ -831,19 +995,19 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 15,
+      "index": 17,
       "selected": false,
       "active": false,
       "surface": "bg-surf-grad-light",
-      "x": 2843,
-      "y": 710
+      "x": 3167,
+      "y": 841
     }
   ],
   "activeSlide": {
     "components": [
       {
         "TextBox": {},
-        "x": 340,
+        "x": 367,
         "y": 44,
         "scale": {
           "x": 1,
@@ -851,46 +1015,34 @@
         },
         "type": "TextBox",
         "size": 48,
-        "text": "<font>Notre démarche</font>",
+        "text": "<font>We want you!</font>",
+        "selected": false
+      },
+      {
+        "src": "http://i.imgur.com/AFNr2LC.jpg",
+        "type": "Image",
+        "x": 308,
+        "y": 109,
+        "scale": {
+          "x": 0.32179386309992136,
+          "y": 0.32179386309992136,
+          "width": 409.00000000000006,
+          "height": 549.6239181746657
+        },
+        "imageType": "JPG",
         "selected": false
       },
       {
         "TextBox": {},
-        "x": 30,
-        "y": 168,
+        "x": 270,
+        "y": 680,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "size": 36,
-        "text": "<font>Eveiller l'esprit critique</font>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 30,
-        "y": 268,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 36,
-        "text": "<font>Ne pas 'diaboliser' ni 'glorifier' les industries pharmaceutiques</font>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 30,
-        "y": 368,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 36,
-        "text": "<font>Outils pédagogiques innovants et participatifs</font>",
+        "size": 48,
+        "text": "<font>espritcritiquenicois.org</font>",
         "selected": false
       }
     ],
@@ -899,17 +1051,18 @@
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 3,
-    "selected": true,
+    "index": 16,
+    "selected": false,
     "active": true,
-    "x": 1020,
-    "y": 180
+    "surface": "bg-surf-grad-light",
+    "x": 3160,
+    "y": 659
   },
   "fileName": "presentation-unnamed",
   "deckVersion": "1.0",
   "customBackgrounds": {
     "bgs": []
   },
-  "overviewX": 1511.5,
-  "overviewY": 445
+  "overviewX": 1673.5,
+  "overviewY": 422.5
 }
