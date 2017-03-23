@@ -485,7 +485,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font>Pensez-vous figurer sur la base de données <br>transparence.gouv.fr?</font>",
+          "text": "<font>Pensez-vous figurer sur la base de données <br>transparence.sante.gouv.fr?</font>",
           "selected": false
         },
         {
@@ -628,8 +628,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 11,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 2308,
       "y": 718
     },
@@ -651,13 +651,27 @@
         {
           "src": "http://i.imgur.com/KjOn7mV.jpg",
           "type": "Image",
-          "x": 207,
-          "y": 181,
+          "x": 26,
+          "y": 267,
           "scale": {
-            "x": 0.29833984375,
-            "y": 0.29833984375,
-            "width": 611,
-            "height": 407.23388671875
+            "x": 0.22900390625000003,
+            "y": 0.22900390625000003,
+            "width": 469.00000000000006,
+            "height": 312.59033203125006
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/IQLEW92.jpg",
+          "type": "Image",
+          "x": 559,
+          "y": 255,
+          "scale": {
+            "x": 0.3558333333333334,
+            "y": 0.3558333333333334,
+            "width": 427.00000000000006,
+            "height": 320.25000000000006
           },
           "imageType": "JPG",
           "selected": false
@@ -669,8 +683,8 @@
       "rotateY": -0.79,
       "rotateZ": 0,
       "index": 12,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 2538,
       "y": 511
     },
@@ -1007,7 +1021,7 @@
     "components": [
       {
         "TextBox": {},
-        "x": 171,
+        "x": 159,
         "y": 44,
         "scale": {
           "x": 1,
@@ -1015,40 +1029,52 @@
         },
         "type": "TextBox",
         "size": 48,
-        "text": "<font>L'illusion d'unique invulnérabilité</font>",
+        "text": "<font>Apprentissage par la participation</font>",
         "selected": false
       },
       {
-        "src": "http://i.imgur.com/1WEBXV0.png",
+        "src": "http://i.imgur.com/KjOn7mV.jpg",
         "type": "Image",
-        "x": 110,
-        "y": 179,
+        "x": 26,
+        "y": 267,
         "scale": {
-          "x": 0.6481481481481481,
-          "y": 0.6481481481481481,
-          "width": 805,
-          "height": 409.6296296296296
+          "x": 0.22900390625000003,
+          "y": 0.22900390625000003,
+          "width": 469.00000000000006,
+          "height": 312.59033203125006
         },
-        "imageType": "PNG",
+        "imageType": "JPG",
+        "selected": false
+      },
+      {
+        "src": "http://i.imgur.com/IQLEW92.jpg",
+        "type": "Image",
+        "x": 559,
+        "y": 255,
+        "scale": {
+          "x": 0.3558333333333334,
+          "y": 0.3558333333333334,
+          "width": 427.00000000000006,
+          "height": 320.25000000000006
+        },
+        "imageType": "JPG",
         "selected": false
       }
     ],
     "z": 0,
     "impScale": 3,
-    "rotateX": 1.57,
-    "rotateY": 0,
+    "rotateX": 0,
+    "rotateY": -0.79,
     "rotateZ": 0,
-    "index": 11,
+    "index": 12,
     "selected": true,
     "active": true,
-    "x": 2308,
-    "y": 718
+    "x": 2538,
+    "y": 511
   },
   "fileName": "presentation-unnamed",
   "deckVersion": "1.0",
   "customBackgrounds": {
     "bgs": []
-  },
-  "overviewX": 1931.5,
-  "overviewY": 509
+  }
 }
