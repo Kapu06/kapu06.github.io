@@ -28,24 +28,14 @@ body {
 }
 
 
-/*.btn
-{
-  background-color: #fbfaf9;
-  margin-bottom:5px;
-}*/
-
-#test
+#nav
 {
   background-color: #fbfaf9;
   margin-bottom:5px;
 }
 
-/*.btn:hover
-{
-  background-color: #ffffff;
-}*/
 
-#test:hover
+#nav:hover
 {
   background-color: #ffffff;
 }
@@ -65,9 +55,4 @@ a:hover
 #aime
 {
   color: #e53838;
-}
-
-#margin
-{
-  margin-bottom: 125px;
 }
