@@ -10,7 +10,12 @@
 
 }
 
-
+body.en :lang(en) {
+  display: none;
+}
+body.fr :lang(fr){
+  display: none;
+}
 
 p {
   font-size: large;
@@ -22,13 +27,25 @@ body {
 
 }
 
-.btn
+
+/*.btn
+{
+  background-color: #fbfaf9;
+  margin-bottom:5px;
+}*/
+
+#test
 {
   background-color: #fbfaf9;
   margin-bottom:5px;
 }
 
-.btn:hover
+/*.btn:hover
+{
+  background-color: #ffffff;
+}*/
+
+#test:hover
 {
   background-color: #ffffff;
 }
@@ -41,6 +58,9 @@ a:hover
 {
   color:#0070ae;
 }
+
+
+
 
 #aime
 {
