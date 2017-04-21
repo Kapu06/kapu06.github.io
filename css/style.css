@@ -10,10 +10,10 @@
 
 }
 
-body.en :lang(en) {
+body.en :lang(fr) {
   display: none;
 }
-body.fr :lang(fr){
+body.fr :lang(en){
   display: none;
 }
 
